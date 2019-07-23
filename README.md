@@ -1,2 +1,2 @@
 # Projects
-Completed projects for class (continuously updating)
+Completed projects (continuously updating)
