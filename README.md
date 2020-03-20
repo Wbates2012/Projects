@@ -1,4 +1,8 @@
 # Projects
+
+## Quantifying Artistic Style
+See here: https://github.com/Wbates2012/QuantifyingStyle
+
 ## Airbnb in Amsterdam
 Final Project for DSC 170 (Intro to Spatial Data) on spatial analysis and machine learning with Airbnb listings in Amsterdam.
 
