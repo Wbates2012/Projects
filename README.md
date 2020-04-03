@@ -9,7 +9,7 @@ Final Project for DSC 170 (Intro to Spatial Data) on spatial analysis and machin
 ## Movie Recommender
 Recommender system using ML for movies based on features such as sentiment analysis, Jaccard similarity, and relative popularity.
 
-## Math 189
+## Math 189: Exploratory Data Analysis
 A variety of mini-projects for Math 189, Exploratory Data Analysis, each highlighting different techniques of statistical modeling.
 
 ## Intro to Python 1 and 2
